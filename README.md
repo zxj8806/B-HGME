@@ -7,7 +7,7 @@ This repository contains the official implementation of the paper
 
 ## Scope (Under Review)
 
-This is a **scoped, minimal release** to run public demos and reproduce selected figures/behaviors.  
+This is a **scoped, minimal release** to run demos.  
 
 ## Computing Infrastructure <a name="infrastructure"></a>
 
