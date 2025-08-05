@@ -8,7 +8,6 @@ This repository contains the official implementation of the paper
 ## Scope (Under Review)
 
 This is a **scoped, minimal release** to run public demos and reproduce selected figures/behaviors.  
-The **full Bayesian MoE internals** (Dirichlet-regularized gating, vMF sampling/priors) and **end-to-end benchmark training recipes** will be released **after acceptance**.
 
 ## Computing Infrastructure <a name="infrastructure"></a>
 
